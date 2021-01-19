@@ -5,3 +5,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 
 #### Day 1
 - [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator)
+#### Day 2
+- [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor)
+- [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)
+- [Goal Duration](https://github.com/A3AJAGBE/goal-duration)
