@@ -9,3 +9,6 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 - [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor)
 - [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)
 - [Goal Duration](https://github.com/A3AJAGBE/goal-duration)
+#### Day 3
+- [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt)
+- [Love Calculator](https://github.com/A3AJAGBE/LoveCalc)
