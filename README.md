@@ -11,4 +11,4 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 - [Goal Duration](https://github.com/A3AJAGBE/goal-duration)
 #### Day 3
 - [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt)
-- [Love Calculator](https://github.com/A3AJAGBE/LoveCalc)
+- [Love or Compatibility Calculator](https://github.com/A3AJAGBE/LoveCalc)
