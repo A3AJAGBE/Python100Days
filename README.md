@@ -12,3 +12,8 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 #### Day 3
 - [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt)
 - [Love or Compatibility Calculator](https://github.com/A3AJAGBE/LoveCalc)
+- Updated the BMI Calculator in day 2
+#### Day 4
+- [Rock Paper Scissors Game](https://github.com/A3AJAGBE/rock-paper-scissors-game)
+- [Group Roulette](https://github.com/A3AJAGBE/GroupRoulette)
+- Updated the Band Name Generator in day 1
