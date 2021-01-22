@@ -17,3 +17,5 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 - [Rock Paper Scissors Game](https://github.com/A3AJAGBE/rock-paper-scissors-game)
 - [Group Roulette](https://github.com/A3AJAGBE/GroupRoulette)
 - Updated the Band Name Generator in day 1
+#### Day 5
+- [Password Generator (PyLock)](https://github.com/A3AJAGBE/password-generator)
