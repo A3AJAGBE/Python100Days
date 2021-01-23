@@ -19,3 +19,5 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 - Updated the Band Name Generator in day 1
 #### Day 5
 - [Password Generator (PyLock)](https://github.com/A3AJAGBE/password-generator)
+#### Day 6
+- [Solution to Reeborgs world challenges](https://github.com/A3AJAGBE/Reeborgs_World)
