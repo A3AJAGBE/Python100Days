@@ -25,3 +25,5 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 - [Hangman game](https://github.com/A3AJAGBE/hangman)
 #### Day 8
 - [Text Encryption and Decryption](https://github.com/A3AJAGBE/text-encrypt-decrypt)
+#### Day 9
+- [Blind Auction](https://github.com/A3AJAGBE/blind-auction)
