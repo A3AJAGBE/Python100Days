@@ -27,3 +27,6 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 - [Text Encryption and Decryption](https://github.com/A3AJAGBE/text-encrypt-decrypt)
 #### Day 9
 - [Blind Auction](https://github.com/A3AJAGBE/blind-auction)
+#### Day 10
+- [Calculation](https://github.com/A3AJAGBE/calculator)
+
