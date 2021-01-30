@@ -33,3 +33,5 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 - [Blackjack Game](https://github.com/A3AJAGBE/blackjack)
 #### Day 12
 - [Number Guessing Game](https://github.com/A3AJAGBE/number-guessing-game)
+#### Day 13
+- [Higher Lower Game](https://github.com/A3AJAGBE/higher-lower)
