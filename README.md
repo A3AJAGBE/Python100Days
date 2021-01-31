@@ -22,3 +22,4 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Blackjack Game](https://github.com/A3AJAGBE/blackjack) |   |
 | [Number Guessing Game](https://github.com/A3AJAGBE/number-guessing-game) |   |
 | [Higher Lower Game](https://github.com/A3AJAGBE/higher-lower) |   | 
+| [Coffee Maker](https://github.com/A3AJAGBE/coffee-maker) |   | 
