@@ -18,7 +18,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Hangman game](https://github.com/A3AJAGBE/hangman) |   |
 | [Text Encryption and Decryption](https://github.com/A3AJAGBE/text-encrypt-decrypt) |   |
 | [Blind Auction](https://github.com/A3AJAGBE/blind-auction) |   |
-| [Calculation](https://github.com/A3AJAGBE/calculator) |   |
+| [Calculator](https://github.com/A3AJAGBE/calculator) |   |
 | [Blackjack Game](https://github.com/A3AJAGBE/blackjack) |   |
 | [Number Guessing Game](https://github.com/A3AJAGBE/number-guessing-game) |   |
 | [Higher Lower Game](https://github.com/A3AJAGBE/higher-lower) |   | 
