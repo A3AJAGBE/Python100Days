@@ -5,8 +5,9 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 
 Beginner                       | Intermediate                   | Advanced
 ------------------------------ | ------------------------------ | ------------------------------
-*Day 1*
-- [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | Not yet | Not yet
+*Day 1* 1. [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | Not yet | Not yet
+
+
 #### Day 2
 - [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor)
 - [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)
