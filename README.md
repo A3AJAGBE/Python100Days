@@ -3,6 +3,13 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 
 ## Progress Log
 
+| S/N | Beginner      | Intermediate           | Advanced  |
+| ----|:-------------:|:----------------------:| ---------:|
+| 1.  | [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | Not yet |
+| 2.  | [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor)      |    | Not yet
+| 3.  | [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)      |     | Not yet
+
+
 S/N|    Beginner                       | Intermediate                   | Advanced
 ----- | ------------------------------ | ------------------------------ | ------------------------------
 1. |[Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | Not yet | Not yet
