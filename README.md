@@ -5,10 +5,10 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 
 | S/N | Beginner      | Intermediate           | Advanced  |
 | ----|:-------------:|:----------------------:| ---------:|
-| 1.  | [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) |   |
-| 2.  | [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor) |    | 
-| 3.  | [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)  |     | 
-| 4.  | [Goal Duration](https://github.com/A3AJAGBE/goal-duration) |     | 
+| 1.  | 1. [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) |   |
+| 2.  | 2. [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor) |    | 
+| 3.  | 3. [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)  |     | 
+| 4.  | 4. [Goal Duration](https://github.com/A3AJAGBE/goal-duration) |     | 
 | 5.  | [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt) |   |
 | 6.  | [Love or Compatibility Calculator](https://github.com/A3AJAGBE/LoveCalc) |   |   |
 | 7.  | [Rock Paper Scissors Game](https://github.com/A3AJAGBE/rock-paper-scissors-game) |   |
