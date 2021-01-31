@@ -6,7 +6,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 Beginner                       | Intermediate                   | Advanced
 ------------------------------ | ------------------------------ | ------------------------------
 1.[Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | Not yet | Not yet
-2. [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor)| Not yet | Not yet
+2.  [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor)| Not yet | Not yet
 3. [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)| Not yet | Not yet
 4. [Goal Duration](https://github.com/A3AJAGBE/goal-duration) | Not yet | Not yet
 5. [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt) | Not yet | Not yet
