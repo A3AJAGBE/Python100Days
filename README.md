@@ -2,9 +2,10 @@
 I am committing to a #100DaysOfCode using python programming language. I will be using a course on Udemy as a guide and this repo will be to monitor my progress.
 
 ## Progress Log
+
 Beginner                       | Intermediate                   | Advanced
 ------------------------------ | ------------------------------ | ------------------------------
-#### Day 1
+*Day 1*
 - [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | Not yet | Not yet
 #### Day 2
 - [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor)
