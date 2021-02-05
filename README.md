@@ -9,7 +9,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor) | [Quiz App](https://github.com/A3AJAGBE/quiz-oop)   | 
 | [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)  | [Hirst Painting](https://github.com/A3AJAGBE/HirstPainting)    | 
 | [Goal Duration](https://github.com/A3AJAGBE/goal-duration) | [Turtle Race Game](https://github.com/A3AJAGBE/TurtleRaceGame)    | 
-| [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt) |   |
+| [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt) | [Snake Game](https://github.com/A3AJAGBE/Snake_Game)  |
 | [Love or Compatibility Calculator](https://github.com/A3AJAGBE/LoveCalc) |   |   |
 | [Rock Paper Scissors Game](https://github.com/A3AJAGBE/rock-paper-scissors-game) |   |
 | [Group Roulette](https://github.com/A3AJAGBE/GroupRoulette) |   |
