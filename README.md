@@ -12,7 +12,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt) | [Snake Game](https://github.com/A3AJAGBE/Snake_Game)  |
 | [Love or Compatibility Calculator](https://github.com/A3AJAGBE/LoveCalc) | [Ping Pong Game](https://github.com/A3AJAGBE/Ping-Pong-Game)  |   |
 | [Rock Paper Scissors Game](https://github.com/A3AJAGBE/rock-paper-scissors-game) | [Obstacle Crossing Game](https://github.com/A3AJAGBE/Crossing-Game)  |
-| [Group Roulette](https://github.com/A3AJAGBE/GroupRoulette) |   |
+| [Group Roulette](https://github.com/A3AJAGBE/GroupRoulette) | [Auto Personalised Letter](https://github.com/A3AJAGBE/auto-personalised-letter)  |
 | [Password Generator (PyLock)](https://github.com/A3AJAGBE/password-generator) |   |
 | [Solution to Reeborgs world challenges](https://github.com/A3AJAGBE/Reeborgs_World) |   |
 | [Hangman game](https://github.com/A3AJAGBE/hangman) |   |
