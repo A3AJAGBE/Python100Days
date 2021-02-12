@@ -16,7 +16,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Password Generator (PyLock)](https://github.com/A3AJAGBE/password-generator) | [Countries in Africa Game](https://github.com/A3AJAGBE/Countries-In-Africa-Game)  |
 | [Solution to Reeborgs world challenges](https://github.com/A3AJAGBE/Reeborgs_World) | [Letters-to-NATO-Alphabet](https://github.com/A3AJAGBE/Letters-to-nato-alphabet)  |
 | [Hangman game](https://github.com/A3AJAGBE/hangman) | [Meter-to-Km Converter](https://github.com/A3AJAGBE/M-to-Km-Converter)  |
-| [Text Encryption and Decryption](https://github.com/A3AJAGBE/text-encrypt-decrypt) |   |
+| [Text Encryption and Decryption](https://github.com/A3AJAGBE/text-encrypt-decrypt) | [Pomodoro GUI](https://github.com/A3AJAGBE/Pomodoro-GUI-App)  |
 | [Blind Auction](https://github.com/A3AJAGBE/blind-auction) |   |
 | [Calculator](https://github.com/A3AJAGBE/calculator) |   |
 | [Blackjack Game](https://github.com/A3AJAGBE/blackjack) |   |
