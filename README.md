@@ -19,7 +19,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Text Encryption and Decryption](https://github.com/A3AJAGBE/text-encrypt-decrypt) | [Pomodoro GUI](https://github.com/A3AJAGBE/Pomodoro-GUI-App)  |
 | [Blind Auction](https://github.com/A3AJAGBE/blind-auction) | [Password Manager GUI](https://github.com/A3AJAGBE/PasswordManagerGUI)  |
 | [Calculator](https://github.com/A3AJAGBE/calculator) | [Flash Card GUI](https://github.com/A3AJAGBE/flash-card-GUI)  |
-| [Blackjack Game](https://github.com/A3AJAGBE/blackjack) |   |
+| [Blackjack Game](https://github.com/A3AJAGBE/blackjack) | [Automatic Birthday Email](https://github.com/A3AJAGBE/Auto-Birthday-Email)  |
 | [Number Guessing Game](https://github.com/A3AJAGBE/number-guessing-game) |   |
 | [Higher Lower Game](https://github.com/A3AJAGBE/higher-lower) |   | 
 | [Coffee Maker](https://github.com/A3AJAGBE/coffee-maker) |   | 
