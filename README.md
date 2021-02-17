@@ -21,5 +21,5 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Calculator](https://github.com/A3AJAGBE/calculator) | [Flash Card GUI](https://github.com/A3AJAGBE/flash-card-GUI)  |
 | [Blackjack Game](https://github.com/A3AJAGBE/blackjack) | [Automatic Birthday Email](https://github.com/A3AJAGBE/Auto-Birthday-Email)  |
 | [Number Guessing Game](https://github.com/A3AJAGBE/number-guessing-game) | [PCJ Quote GUI](https://github.com/A3AJAGBE/PCJ-Quotes-GUI)  |
-| [Higher Lower Game](https://github.com/A3AJAGBE/higher-lower) |   | 
+| [Higher Lower Game](https://github.com/A3AJAGBE/higher-lower) | [Quiz GUI APP](https://github.com/A3AJAGBE/Quiz-GUI-App)  | 
 | [Coffee Maker](https://github.com/A3AJAGBE/coffee-maker) |   | 
