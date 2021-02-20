@@ -24,4 +24,4 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Higher Lower Game](https://github.com/A3AJAGBE/higher-lower) | [Quiz GUI APP](https://github.com/A3AJAGBE/Quiz-GUI-App)  | 
 | [Coffee Maker](https://github.com/A3AJAGBE/coffee-maker) | [SMS Rain Alert](https://github.com/A3AJAGBE/SMS-rain-alert)  | 
 |  | [Stock Trading Alert](https://github.com/A3AJAGBE/stock-trading-sms-alert)  | 
-|  | [Cocktail Recipe](https://github.com/A3AJAGBE/Random-Cocktail-Recipe)  | 
+|  | [Cocktail Recipe](https://github.com/A3AJAGBE/Random-Cocktail-Recipe) | 
