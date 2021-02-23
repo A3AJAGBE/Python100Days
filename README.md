@@ -5,7 +5,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 
 | Beginner      | Intermediate           | Advanced  |
 | ------------- |:----------------------:| ---------:|
-| [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP)  | [Cheap-Flight-Notification](https://github.com/A3AJAGBE/Cheap-Flight-Notification)
+| [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP)  | [Cheap-Flight-Notification](https://github.com/A3AJAGBE/Cheap-Flight-Notification) (updated)
 | [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor) | [Quiz App](https://github.com/A3AJAGBE/quiz-oop)   | 
 | [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)  | [Hirst Painting](https://github.com/A3AJAGBE/HirstPainting)    | 
 | [Goal Duration](https://github.com/A3AJAGBE/goal-duration) | [Turtle Race Game](https://github.com/A3AJAGBE/TurtleRaceGame)    | 
