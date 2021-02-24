@@ -5,7 +5,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 
 | Beginner      | Intermediate           | Advanced  |
 | ------------- |:----------------------:| ---------:|
-| [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP)  | [Cheap-Flight-Notification](https://github.com/A3AJAGBE/Cheap-Flight-Notification) (updated)
+| [Band Name Generator](https://github.com/A3AJAGBE/band-name-generator) | [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP)  | 
 | [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor) | [Quiz App](https://github.com/A3AJAGBE/quiz-oop)   | 
 | [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)  | [Hirst Painting](https://github.com/A3AJAGBE/HirstPainting)    | 
 | [Goal Duration](https://github.com/A3AJAGBE/goal-duration) | [Turtle Race Game](https://github.com/A3AJAGBE/TurtleRaceGame)    | 
@@ -26,3 +26,5 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 |  | [Stock Trading Alert](https://github.com/A3AJAGBE/stock-trading-sms-alert)  | 
 |  | [Cocktail Recipe](https://github.com/A3AJAGBE/Random-Cocktail-Recipe) | 
 |  | [Workout Tracker](https://github.com/A3AJAGBE/Track-Workout) | 
+|  | [Cheap-Flight-Notification](https://github.com/A3AJAGBE/Cheap-Flight-Notification) | 
+|  | [AllTime 100 TvSeries](https://github.com/A3AJAGBE/AllTime-100-TvSeries) | 
