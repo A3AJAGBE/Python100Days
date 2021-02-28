@@ -31,3 +31,4 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 |  | [Spotify Music Playlist](https://github.com/A3AJAGBE/MusicPlaylist) | 
 |  | [Product Price Tracker](https://github.com/A3AJAGBE/PriceTracker) | 
 |  | [Selenuium Auto Bots](https://github.com/A3AJAGBE/Selenuium-Auto-Bots) | 
+|  | [Data Entry Bot](https://github.com/A3AJAGBE/Data-Entry-Bot) | 
