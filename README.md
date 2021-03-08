@@ -9,7 +9,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Bill Splitor](https://github.com/A3AJAGBE/bill-splitor) | [Quiz App](https://github.com/A3AJAGBE/quiz-oop)   | [Blog Website](https://github.com/A3AJAGBE/Blog) 
 | [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)  | [Hirst Painting](https://github.com/A3AJAGBE/HirstPainting)    | [Form Building](https://github.com/A3AJAGBE/Form-Building-Flask)
 | [Goal Duration](https://github.com/A3AJAGBE/goal-duration) | [Turtle Race Game](https://github.com/A3AJAGBE/TurtleRaceGame)    | [Cafe Review](https://github.com/A3AJAGBE/CafeReview)
-| [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt) | [Snake Game](https://github.com/A3AJAGBE/Snake_Game)  |
+| [Treasure Hunt](https://github.com/A3AJAGBE/treasure-hunt) | [Snake Game](https://github.com/A3AJAGBE/Snake_Game)  | [My Library](https://github.com/A3AJAGBE/MyLibrary)
 | [Love or Compatibility Calculator](https://github.com/A3AJAGBE/LoveCalc) | [Ping Pong Game](https://github.com/A3AJAGBE/Ping-Pong-Game)  |   |
 | [Rock Paper Scissors Game](https://github.com/A3AJAGBE/rock-paper-scissors-game) | [Obstacle Crossing Game](https://github.com/A3AJAGBE/Crossing-Game)  |
 | [Group Roulette](https://github.com/A3AJAGBE/GroupRoulette) | [Auto Personalised Letter](https://github.com/A3AJAGBE/auto-personalised-letter)  |
