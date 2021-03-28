@@ -17,7 +17,7 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 | [Solution to Reeborgs world challenges](https://github.com/A3AJAGBE/Reeborgs_World) | [Letters-to-NATO-Alphabet](https://github.com/A3AJAGBE/Letters-to-nato-alphabet)  | [Morse Code Converter](https://github.com/A3AJAGBE/MorseCode_Converter)
 | [Hangman game](https://github.com/A3AJAGBE/hangman) | [Meter-to-Km Converter](https://github.com/A3AJAGBE/M-to-Km-Converter)  | [My Portfolio](https://github.com/A3AJAGBE/MyPortfolio)
 | [Text Encryption and Decryption](https://github.com/A3AJAGBE/text-encrypt-decrypt) | [Pomodoro GUI](https://github.com/A3AJAGBE/Pomodoro-GUI-App)  | [Tic Tac Toe Game](https://github.com/A3AJAGBE/TicTacToe)
-| [Blind Auction](https://github.com/A3AJAGBE/blind-auction) | [Password Manager GUI](https://github.com/A3AJAGBE/PasswordManagerGUI)  |
+| [Blind Auction](https://github.com/A3AJAGBE/blind-auction) | [Password Manager GUI](https://github.com/A3AJAGBE/PasswordManagerGUI)  | [E-commerce App](https://github.com/A3AJAGBE/JG-Shop)
 | [Calculator](https://github.com/A3AJAGBE/calculator) | [Flash Card GUI](https://github.com/A3AJAGBE/flash-card-GUI)  |
 | [Blackjack Game](https://github.com/A3AJAGBE/blackjack) | [Automatic Birthday Email](https://github.com/A3AJAGBE/Auto-Birthday-Email)  |
 | [Number Guessing Game](https://github.com/A3AJAGBE/number-guessing-game) | [PCJ Quote GUI](https://github.com/A3AJAGBE/PCJ-Quotes-GUI)  |
