@@ -35,6 +35,9 @@ I am committing to a #100DaysOfCode using python programming language.
 29. [Product Price Tracker](https://github.com/A3AJAGBE/PriceTracker)
 30. [Selenuium Auto Bots](https://github.com/A3AJAGBE/Selenuium-Auto-Bots)
 31. [Data Entry Bot](https://github.com/A3AJAGBE/Data-Entry-Bot)
+32. [Letters-to-NATO-Alphabet](https://github.com/A3AJAGBE/Letters-to-nato-alphabet) 
+33. [Morse Code Converter](https://github.com/A3AJAGBE/MorseCode_Converter)
+34. [Tic Tac Toe Game](https://github.com/A3AJAGBE/TicTacToe)
 
 ### Python Turtle
 1. [Hirst Painting](https://github.com/A3AJAGBE/HirstPainting) 
@@ -53,35 +56,16 @@ I am committing to a #100DaysOfCode using python programming language.
 6. [Quiz GUI APP](https://github.com/A3AJAGBE/Quiz-GUI-App) 
 7. [Cocktail Recipe](https://github.com/A3AJAGBE/Random-Cocktail-Recipe)
 
-
-## Progress Log
-|       |            |   |
-| ------------- |:----------------------:| ---------:|
-|  |  | [Personal Name Card (NC)](https://github.com/A3AJAGBE/myNameCard) 
-|  |   | [Blog Website](https://github.com/A3AJAGBE/Blog) 
-|   |    | [Form Building](https://github.com/A3AJAGBE/Form-Building-Flask)
-|  |     | [Cafe Review](https://github.com/A3AJAGBE/CafeReview)
-| |  | [My Library](https://github.com/A3AJAGBE/MyLibrary)
-|  |  | [My Movie List](https://github.com/A3AJAGBE/MyMovieList)  | 
-|  |  | [Nigerian Restaurant API](https://github.com/A3AJAGBE/NaijaRestaurantAPI)
-|  |  | [RESTful Blog](https://github.com/A3AJAGBE/RESTful_Blog)
-|  |   | [Flask Authentication](https://github.com/A3AJAGBE/FlaskAuthentication)
-|  | [Letters-to-NATO-Alphabet](https://github.com/A3AJAGBE/Letters-to-nato-alphabet)  | [Morse Code Converter](https://github.com/A3AJAGBE/MorseCode_Converter)
-| |  | [My Portfolio](https://github.com/A3AJAGBE/MyPortfolio)
-|  |  | [Tic Tac Toe Game](https://github.com/A3AJAGBE/TicTacToe)
-|  |  | [E-commerce App](https://github.com/A3AJAGBE/JG-Shop)
-|  |  |
-|  |   |
-| |   |
-|  |  | 
-| |  | 
-|  |   | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  |  | 
-|  | [Number Guessing Game (Flask App)](https://github.com/A3AJAGBE/Guess-Number-FlaskApp) | 
+### Python Flask Web Development
+1. [Number Guessing Game (Flask App)](https://github.com/A3AJAGBE/Guess-Number-FlaskApp) 
+2. [Personal Name Card (NC)](https://github.com/A3AJAGBE/myNameCard) 
+3. [Blog Website](https://github.com/A3AJAGBE/Blog) 
+4. [Form Building](https://github.com/A3AJAGBE/Form-Building-Flask)
+5. [Cafe Review](https://github.com/A3AJAGBE/CafeReview)
+6. [My Library](https://github.com/A3AJAGBE/MyLibrary)
+7. [My Movie List](https://github.com/A3AJAGBE/MyMovieList) 
+8. [Nigerian Restaurant API](https://github.com/A3AJAGBE/NaijaRestaurantAPI)
+9. [RESTful Blog](https://github.com/A3AJAGBE/RESTful_Blog)
+10. [Flask Authentication](https://github.com/A3AJAGBE/FlaskAuthentication)
+11. [My Portfolio](https://github.com/A3AJAGBE/MyPortfolio)
+12. [E-commerce App](https://github.com/A3AJAGBE/JG-Shop)
