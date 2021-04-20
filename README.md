@@ -3,7 +3,6 @@ I am committing to a #100DaysOfCode using python programming language. I will be
 
 ## Progress Log
 
-| Beginner      | Intermediate           | Advanced  |
 | ------------- |:----------------------:| ---------:|
 | [Name Generator](https://github.com/A3AJAGBE/name-generator) | [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP)  | [Personal Name Card (NC)](https://github.com/A3AJAGBE/myNameCard) 
 | [Bill Calc & Split](https://github.com/A3AJAGBE/bill-splitor) | [Quiz App](https://github.com/A3AJAGBE/quiz-oop)   | [Blog Website](https://github.com/A3AJAGBE/Blog) 
