@@ -1,10 +1,13 @@
 # Python100Days
-I am committing to a #100DaysOfCode using python programming language. I will be using a course on Udemy as a guide and this repo will be to monitor my progress.
+I am committing to a #100DaysOfCode using python programming language.
+
+## Python Scripts
+* [Name Generator](https://github.com/A3AJAGBE/name-generator)
 
 ## Progress Log
 |       |            |   |
 | ------------- |:----------------------:| ---------:|
-| [Name Generator](https://github.com/A3AJAGBE/name-generator) | [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP)  | [Personal Name Card (NC)](https://github.com/A3AJAGBE/myNameCard) 
+|  | [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP)  | [Personal Name Card (NC)](https://github.com/A3AJAGBE/myNameCard) 
 | [Bill Calc & Split](https://github.com/A3AJAGBE/bill-splitor) | [Quiz App](https://github.com/A3AJAGBE/quiz-oop)   | [Blog Website](https://github.com/A3AJAGBE/Blog) 
 | [BMI Calculator](https://github.com/A3AJAGBE/bmi-calc)  | [Hirst Painting](https://github.com/A3AJAGBE/HirstPainting)    | [Form Building](https://github.com/A3AJAGBE/Form-Building-Flask)
 | [Goal Duration](https://github.com/A3AJAGBE/goal-duration) | [Turtle Race Game](https://github.com/A3AJAGBE/TurtleRaceGame)    | [Cafe Review](https://github.com/A3AJAGBE/CafeReview)
