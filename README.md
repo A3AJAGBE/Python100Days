@@ -24,6 +24,17 @@ I am committing to a #100DaysOfCode using python programming language.
 18. [Coffee Maker](https://github.com/A3AJAGBE/coffee-maker) 
 19. [Coffee Maker (OOP version)](https://github.com/A3AJAGBE/CoffeeMaker-OOP) 
 20. [Quiz App](https://github.com/A3AJAGBE/quiz-oop) 
+21. [Auto Personalised Letter](https://github.com/A3AJAGBE/auto-personalised-letter) 
+22. [Automatic Birthday Email](https://github.com/A3AJAGBE/Auto-Birthday-Email)
+23. [SMS Rain Alert](https://github.com/A3AJAGBE/SMS-rain-alert) 
+24. [Stock Trading Alert](https://github.com/A3AJAGBE/stock-trading-sms-alert)
+25. [Workout Tracker](https://github.com/A3AJAGBE/Track-Workout)
+26. [Cheap-Flight-Notification](https://github.com/A3AJAGBE/Cheap-Flight-Notification)
+27. [AllTime 100 TvSeries](https://github.com/A3AJAGBE/AllTime-100-TvSeries)
+28. [Spotify Music Playlist](https://github.com/A3AJAGBE/MusicPlaylist)
+29. [Product Price Tracker](https://github.com/A3AJAGBE/PriceTracker)
+30. [Selenuium Auto Bots](https://github.com/A3AJAGBE/Selenuium-Auto-Bots)
+31. [Data Entry Bot](https://github.com/A3AJAGBE/Data-Entry-Bot)
 
 ### Python Turtle
 1. [Hirst Painting](https://github.com/A3AJAGBE/HirstPainting) 
@@ -31,6 +42,16 @@ I am committing to a #100DaysOfCode using python programming language.
 3. [Snake Game](https://github.com/A3AJAGBE/Snake_Game) 
 4. [Ping Pong Game](https://github.com/A3AJAGBE/Ping-Pong-Game) 
 5. [Obstacle Crossing Game](https://github.com/A3AJAGBE/Crossing-Game) 
+6. [Countries in Africa Game](https://github.com/A3AJAGBE/Countries-In-Africa-Game)
+
+### Python Tkinter
+1. [Meter-to-Km Converter](https://github.com/A3AJAGBE/M-to-Km-Converter) 
+2. [Pomodoro GUI](https://github.com/A3AJAGBE/Pomodoro-GUI-App) 
+3. [Password Manager GUI](https://github.com/A3AJAGBE/PasswordManagerGUI) 
+4. [Flash Card GUI](https://github.com/A3AJAGBE/flash-card-GUI) 
+5. [PCJ Quote GUI](https://github.com/A3AJAGBE/PCJ-Quotes-GUI)
+6. [Quiz GUI APP](https://github.com/A3AJAGBE/Quiz-GUI-App) 
+7. [Cocktail Recipe](https://github.com/A3AJAGBE/Random-Cocktail-Recipe)
 
 
 ## Progress Log
@@ -43,24 +64,24 @@ I am committing to a #100DaysOfCode using python programming language.
 | |  | [My Library](https://github.com/A3AJAGBE/MyLibrary)
 |  |  | [My Movie List](https://github.com/A3AJAGBE/MyMovieList)  | 
 |  |  | [Nigerian Restaurant API](https://github.com/A3AJAGBE/NaijaRestaurantAPI)
-|  | [Auto Personalised Letter](https://github.com/A3AJAGBE/auto-personalised-letter)  | [RESTful Blog](https://github.com/A3AJAGBE/RESTful_Blog)
-|  | [Countries in Africa Game](https://github.com/A3AJAGBE/Countries-In-Africa-Game)  | [Flask Authentication](https://github.com/A3AJAGBE/FlaskAuthentication)
+|  |  | [RESTful Blog](https://github.com/A3AJAGBE/RESTful_Blog)
+|  |   | [Flask Authentication](https://github.com/A3AJAGBE/FlaskAuthentication)
 |  | [Letters-to-NATO-Alphabet](https://github.com/A3AJAGBE/Letters-to-nato-alphabet)  | [Morse Code Converter](https://github.com/A3AJAGBE/MorseCode_Converter)
-| | [Meter-to-Km Converter](https://github.com/A3AJAGBE/M-to-Km-Converter)  | [My Portfolio](https://github.com/A3AJAGBE/MyPortfolio)
-|  | [Pomodoro GUI](https://github.com/A3AJAGBE/Pomodoro-GUI-App)  | [Tic Tac Toe Game](https://github.com/A3AJAGBE/TicTacToe)
-|  | [Password Manager GUI](https://github.com/A3AJAGBE/PasswordManagerGUI)  | [E-commerce App](https://github.com/A3AJAGBE/JG-Shop)
-|  | [Flash Card GUI](https://github.com/A3AJAGBE/flash-card-GUI)  |
-|  | [Automatic Birthday Email](https://github.com/A3AJAGBE/Auto-Birthday-Email)  |
-| | [PCJ Quote GUI](https://github.com/A3AJAGBE/PCJ-Quotes-GUI)  |
-|  | [Quiz GUI APP](https://github.com/A3AJAGBE/Quiz-GUI-App)  | 
-| | [SMS Rain Alert](https://github.com/A3AJAGBE/SMS-rain-alert)  | 
-|  | [Stock Trading Alert](https://github.com/A3AJAGBE/stock-trading-sms-alert)  | 
-|  | [Cocktail Recipe](https://github.com/A3AJAGBE/Random-Cocktail-Recipe) | 
-|  | [Workout Tracker](https://github.com/A3AJAGBE/Track-Workout) | 
-|  | [Cheap-Flight-Notification](https://github.com/A3AJAGBE/Cheap-Flight-Notification) | 
-|  | [AllTime 100 TvSeries](https://github.com/A3AJAGBE/AllTime-100-TvSeries) | 
-|  | [Spotify Music Playlist](https://github.com/A3AJAGBE/MusicPlaylist) | 
-|  | [Product Price Tracker](https://github.com/A3AJAGBE/PriceTracker) | 
-|  | [Selenuium Auto Bots](https://github.com/A3AJAGBE/Selenuium-Auto-Bots) | 
-|  | [Data Entry Bot](https://github.com/A3AJAGBE/Data-Entry-Bot) | 
+| |  | [My Portfolio](https://github.com/A3AJAGBE/MyPortfolio)
+|  |  | [Tic Tac Toe Game](https://github.com/A3AJAGBE/TicTacToe)
+|  |  | [E-commerce App](https://github.com/A3AJAGBE/JG-Shop)
+|  |  |
+|  |   |
+| |   |
+|  |  | 
+| |  | 
+|  |   | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
+|  |  | 
 |  | [Number Guessing Game (Flask App)](https://github.com/A3AJAGBE/Guess-Number-FlaskApp) | 
