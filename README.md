@@ -71,3 +71,4 @@ I am committing to a #100DaysOfCode using python programming language.
 12. [E-commerce App](https://github.com/A3AJAGBE/JG-Shop)
 13. [URL Shortener](https://github.com/A3AJAGBE/LinkShortener)
 14. [Medication Dose Tracker](https://github.com/A3AJAGBE/Meds-Dose-Tracker)
+15. [Store Management](https://github.com/A3AJAGBE/stor-em)
