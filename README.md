@@ -67,8 +67,8 @@ I am committing to a #100DaysOfCode using python programming language.
 8. [Nigerian Restaurant API](https://github.com/A3AJAGBE/NaijaRestaurantAPI)
 9. [RESTful Blog](https://github.com/A3AJAGBE/RESTful_Blog)
 10. [Flask Authentication](https://github.com/A3AJAGBE/FlaskAuthentication)
-11. [My Portfolio](https://github.com/A3AJAGBE/MyPortfolio)
-12. [E-commerce App](https://github.com/A3AJAGBE/JG-Shop)
+11. [My Portfolio](https://github.com/A3AJAGBE/MyPortfolio)- Now private Repo
+12. [E-commerce App](https://github.com/A3AJAGBE/jg-store) - Not Completed
 13. [URL Shortener](https://github.com/A3AJAGBE/LinkShortener)
 14. [Medication Dose Tracker](https://github.com/A3AJAGBE/Meds-Dose-Tracker)
 15. [Store Management](https://github.com/A3AJAGBE/stor-em)
